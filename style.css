@@ -7,7 +7,7 @@ body {
     height: 100vh;
 }
 .card {
-    background-color: greenyellow;
+    background-color: white;
     padding: 20px 40px;
     border-radius: 10px;
     text-align: center;
@@ -21,7 +21,7 @@ body {
     margin-bottom: 20px;
 }
 .title {
-    color: grey;
+    color: rgb(235, 15, 44);
     font-size: 18px;
     margin-bottom: 15px;
 }
